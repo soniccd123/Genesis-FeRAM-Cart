@@ -7,7 +7,7 @@ In the actual state, this cartridge features:
 
 - ROM Support for up to 4MB
 - Save support for all ROM sizes (Selection for <2MB/4MB by jumper)
-- 32kB of FeRAM for saving
+- 32KB of FeRAM for saving
 - No need for battery for saving
 - Rudimentary ROM bank switch (Permits multiple games on same ROM)
 
