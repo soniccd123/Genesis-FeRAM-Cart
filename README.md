@@ -25,7 +25,8 @@ This project is possible thanks to TmEE (NESdev Forums, SRAM wiring schematics) 
 # How to use:
 Bank Switching: The user may write multiple roms to the same EPROM, the DIP switch controls which area of the EPROM is read by the Genesis/Mega Drive; The minimum bank size is 256KB. Each of the switches connect a memory address line between the system and the EPROM: when the switch is on, the respective address line is controlled by the Sega Genesis; When off, the EPROM adress line is pulled-up and cut from Genesis control. the address lines are A20, A19, A18, A17 (considering LSB as A0). To select the desired bank, turn the switches on and off acordingly to the begining address that the ROM occupies in the EPROM.
 
-Examples: 
+Examples:
+
 ROM_x begin at 0x100000 -> Switch just A19 off (pull-up);
 ROM_y begin at 0x180000 -> Switch A19 and A18 off;
 
