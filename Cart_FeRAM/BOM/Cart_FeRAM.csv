@@ -1,0 +1,11 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C1 C2 C3 C4 C5 C6 ,6,"C","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~"
+CON1 ,1,"GENESIS-EDGE","db-smt:GENESIS-EDGE",""
+J1 J2 ,2,"Conn_01x32_Male","Connector_PinSocket_2.54mm:PinSocket_1x32_P2.54mm_Vertical","~"
+JP1 ,1,"<2M/4M","Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm","~"
+R4 R3 R2 R1 ,4,"1K","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~"
+SW1 ,1,"SW_DIP_x04","Button_Switch_THT:SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm","~"
+U1 ,1,"74HC74","Package_DIP:DIP-14_W7.62mm","74xx/74hc_hct74.pdf"
+U2 ,1,"FM1808B-SG","Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm","http://www.cypress.com/file/136521/download"
+U3 ,1,"74LS139","Package_DIP:DIP-16_W7.62mm",""
+U4 ,1,"27C322","Package_DIP:DIP-42_W15.24mm_Socket",""
