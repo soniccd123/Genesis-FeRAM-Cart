@@ -27,7 +27,7 @@ Bank Switching: The user may write multiple roms to the same EPROM, the DIP swit
 
 Examples:
 
-ROM_x begin at 0x100000 -> Switch just A19 off (pull-up);
+ROM_x begin at 0x100000 -> Switch just A19 off (pull-up);           
 ROM_y begin at 0x180000 -> Switch A19 and A18 off;
 
 This technique may not be compatible with save supporting Genesis software.
