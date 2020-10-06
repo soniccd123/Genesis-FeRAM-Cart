@@ -5,6 +5,7 @@ This projects uses a 27C322 4MB EPROM Chip and a FM1808 32KB FeRAM as save stora
 
 In the actual state, this cartridge features:
 
+- Suports Genesis and 32X software
 - ROM Support for up to 4MB
 - Save support for all ROM sizes (Selection for <2MB/4MB by jumper)
 - 32KB of FeRAM for saving
